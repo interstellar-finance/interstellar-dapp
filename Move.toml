@@ -4,8 +4,8 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-
-[dev-addresses]
+std = "0x1"
+interstellar_dapp = "_"
 
 [dependencies.AptosFramework]
 git = "https://github.com/aptos-labs/aptos-core.git"
