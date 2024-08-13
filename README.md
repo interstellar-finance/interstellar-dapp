@@ -1,2 +1,2 @@
-# interstellar-dapp
-Cross-collateralization credit accounts
+# InterStellar Finance
+The InterStellar project aims to build cross-collateralization credit accounts accessible via a Telegram, serving as the communication interface with the Smart Contract. This solution will enable users to manage their financial positions directly from the Telegram app, providing a seamless and efficient way to interact with decentralized finance (DeFi) protocols. Users will be able to deposit assets, borrow funds, and engage in various financial activities similar to those in money market protocols. Each credit account will have a unique Health Factor and can be tailored for different strategies, offering flexibility and customization to meet diverse financial goals.
